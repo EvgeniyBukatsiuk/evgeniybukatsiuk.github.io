@@ -1,0 +1,81 @@
+{"users":
+[
+  {
+    "id": "1",
+    "name": "Evgeniy",
+    "email": "evgen2002@gmail.com",
+    "phone": "+375(44)3655678"
+    "gender": "male"
+  },
+  {
+    "id": "2",
+    "name": "Dmitriy",
+    "email": "dmitr@gmail.com",
+    "phone": "+375(33)5381635"
+    "gender": "male"
+  },
+  {
+    "id": "3",
+    "name": "Danila",
+    "email": "danila33@gmail.com",
+    "phone": "+375(29)1111111"
+    "gender": "male"
+  },
+  {
+    "id": "4",
+    "name": "Roman",
+    "email": "roman@gmail.com",
+    "phone": "+375(29)3655567"
+    "gender": "male"
+  },
+  {
+    "id": "5",
+    "name": "Ivan",
+    "email": "ivan@gmail.com",
+    "phone": "+375(29)5385750"
+    "gender": "male"
+  },
+  {
+    "id": "6",
+    "name": "Veronika",
+    "email": "nika11@gmail.com",
+    "phone": "+375(33)3600678"
+    "gender": "female"
+  },
+  {
+    "id": "7",
+    "name": "Alexander",
+    "email": "sannn@gmail.com",
+    "phone": "+375(29)1113278"
+    "gender": "male"
+  },
+  {
+    "id": "8",
+    "name": "Marina",
+    "email": "marina@gmail.com",
+    "phone": "+375(29)1029384"
+    "gender": "female"
+  },
+  {
+    "id": "9",
+    "name": "Andrey",
+    "email": "andrey@gmail.com",
+    "phone": "+375(29)3652222"
+    "gender": "male"
+  },
+  {
+    "id": "10",
+    "name": "Ekaterina",
+    "email": "kate@gmail.com",
+    "phone": "+375(29)3634343"
+    "gender": "female"
+  },
+  {
+    "id": "11",
+    "name": "Artem",
+    "email": "artem@gmail.com",
+    "phone": "+375(29)1234567"
+    "gender": "male"
+  }
+]
+}
